@@ -20,8 +20,7 @@ Through this project I learned how physical constraints like breadboard spacing 
 <img width="1068" height="602" alt="image" src="https://github.com/user-attachments/assets/fc81ec5d-9cb6-418e-904d-26a878abd8d2" />
 <img width="376" height="525" alt="image" src="https://github.com/user-attachments/assets/e4300ea7-288d-4f1a-81d7-e227b7c35305" />
 <img width="594" height="226" alt="image" src="https://github.com/user-attachments/assets/97293d7e-1836-40fa-9daf-75dd66c5602b" />
-<img width="964" height="512" alt="image" src="https://github.com/user-attachments/assets/1bdad8cd-6384-4d59-be84-352893187307" />
-<img width="1328" height="631" alt="image" src="https://github.com/user-attachments/assets/04a2d786-c846-4f85-b1d1-84311743c731" />
-<img width="1154" height="612" alt="image" src="https://github.com/user-attachments/assets/11576ac7-c885-4968-b913-54e15eef5f67" />
-<img width="495" height="576" alt="image" src="https://github.com/user-attachments/assets/fd769b39-0776-4cbb-8e27-2176580af02d" />
+<img width="1365" height="578" alt="image" src="https://github.com/user-attachments/assets/e1538aa0-0366-4900-ae59-b4378306a720" />
+
+
 
